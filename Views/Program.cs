@@ -4,7 +4,7 @@ namespace Retaguarda
     {
         public static void Main(string[]  args)
         {
-            int opcao = 0;
+            int opcao = 99;
             do {
             Console.WriteLine("+--------------------------+");
             Console.WriteLine("|       MENU PRINCIPAL     |");
