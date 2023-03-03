@@ -1,0 +1,32 @@
+Atividade
+
+Cidade
+	ID
+	NOME
+ROTA
+	ID
+	CAMINHAO
+	PARTIDA
+	CHEGADA
+	DATA
+	valor da rota
+CAMINHAO
+	ID
+	PLACA
+	MOTORISTA
+
+Cadastrar, Alterar, excluir
+
+Validar a entrada da DATA
+validacao da PLACA
+valor da rota em reais das rotas do caminhao
+total de rotas que o caminhao fez
+Média total do valor das rotas (total de rotas e dividir pela soma dos valores)
+usar o linq para fazer as contas
+
+
+explicaçao
+
+
+10 rotas 3 do caminhao 1 5 do 2 do caminhao 3
+
